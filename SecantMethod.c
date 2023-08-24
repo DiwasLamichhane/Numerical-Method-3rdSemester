@@ -1,4 +1,4 @@
-//solution of non-linear equations using Newton's Raphson Method
+//solution of non-linear equations using secant Method
 
 #include <stdio.h>
 #include <conio.h>
